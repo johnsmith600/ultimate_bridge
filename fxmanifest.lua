@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Jules'
+author 'johnsmith600'
 description 'Ultimate Framework Bridge (ESX / QBCore / Qbox)'
 version '1.0.0'
 
